@@ -7,6 +7,8 @@ int main (){
  int b;
  cin>>b;
  cout << a*b;
+ char c ='a';
+ cout<<c;
  return 0;
 
 
